@@ -42,10 +42,6 @@ My public work is still taking shape. I prefer publishing fewer things with real
 - Question defaults, test assumptions, and document the process.
 - Treat chaos as raw material—then give it structure.
 
-## Beyond the technical layer
-
-My visual and conceptual language draws from philosophy, digital art, occult symbolism, and anti-dogmatic thought. These are not an aesthetic costume; they shape how I question defaults, connect distant ideas, and approach creative technology.
-
 ---
 
 <div align="center">
