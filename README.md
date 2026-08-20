@@ -10,7 +10,7 @@ AI, art, games, and strange systems.
 
 </div>
 
-I'm a Digital Game Design student in Northern Cyprus. I'm not an AI expert, and I'm not here to cosplay one. I'm learning. I care about agents, games, digital art, philosophy, occultism, and what happens when they collide.
+Digital Game Design student in Northern Cyprus. Not an AI expert, and not here to cosplay one. I'm learning. I care about agents, games, digital art, philosophy, occultism, and what happens when they collide.
 
 This GitHub is early and mostly empty. Good. I'd rather leave it empty than fill it with generated garbage and call it a portfolio.
 
@@ -25,6 +25,6 @@ It's not a job title or a claim. It's just the best name I have for the way my m
 
 ## Red line
 
-I use AI every day. I still hate AI slop.
+use AI +5 hours per day . still hate AI slop.
 
 No fake expertise. No recycled insight. No polished paragraph hiding an empty idea. If I haven't thought about it, tested it, changed it, or put something of myself into it, it doesn't go here.
