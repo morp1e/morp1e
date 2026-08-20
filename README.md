@@ -16,9 +16,8 @@ This GitHub is early and mostly empty. Good. I'd rather leave it empty than fill
 
 ## Right now
 
-- learning how AI agents actually behave outside polished demos
-- figuring out how to work with Gizmo without letting AI flatten my voice
-- leaving this profile sparse until I have work worth showing
+- testing AI agents in real workflows, not just watching polished demos
+- learning how to work with Gizmo—my AI partner—without letting it flatten my voice
 
 ## Digital Wizard?
 
