@@ -1,30 +1,42 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mercurius-dark.svg">
+  <img src="assets/mercurius-light.svg" alt="Mercurius — the morp1e mark" height="116">
+</picture>
+
 <sub>SOLVE ET COAGULA</sub>
 
-# Özenç
+# morp1e
 
-### Digital Wizard
-
-AI, art, games, and strange systems.
+Learning to run these systems well enough that the judgement stays mine.
 
 </div>
 
-Digital Game Design student in Northern Cyprus. Not an AI expert, and not here to cosplay one. I'm learning. I care about agents, games, digital art, philosophy, occultism, and what happens when they collide.
+Digital Game Design student in Northern Cyprus, third year. I am not an AI expert and I am not going to perform being one — that claim costs nothing right now and everybody is making it. The narrower claim is the one above, and it is the only one I will defend.
 
-This GitHub is early and mostly empty. Good. I'd rather leave it empty than fill it with generated garbage and call it a portfolio.
+This profile is early and it looks early on purpose. Most of what I build is private, unfinished, or both.
 
-## Right now
+## Private — a claim, not evidence
 
-- testing AI agents in real workflows, not just watching polished demos
-- learning how to work with Gizmo—my AI partner—without letting it flatten my voice
+**Morp1eOS** is where most of the work actually happens: an Obsidian vault operated by AI agents as a second brain, with file-based memory that survives between sessions, a machine layer that writes its own daily logs and compiles them into linked articles, and a written contract for what the agents are and are not allowed to do. It is private, so treat everything in this paragraph as an assertion I have not shown you.
 
-## Digital Wizard?
+## Owed
 
-It's not a job title or a claim. It's just the best name I have for the way my mind works: take things apart, follow strange connections, and rebuild them in my own way.
+- **Game design work.** Third year of the degree and nothing public. This is the real gap.
+- **A domain of my own.** This profile is currently the only surface.
+
+## Ledger
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg">
+  <img src="assets/ledger-light.svg" alt="Activity ledger: public repos, contributions over the last 30 days, and most recent push">
+</picture>
+
+<sub>Regenerated daily by <a href="./.github/workflows/ledger.yml">a workflow in this repo</a> — no third-party service renders it. Forks are not counted.</sub>
 
 ## Red line
 
-use AI +5 hours per day . still hate AI slop.
+5+ hours a day with AI, and still throwing away output that reads fluent and says nothing.
 
 No fake expertise. No recycled insight. No polished paragraph hiding an empty idea. If I haven't thought about it, tested it, changed it, or put something of myself into it, it doesn't go here.

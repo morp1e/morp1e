@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Mercurius: morp1e brand mark">
+  <title>Mercurius — morp1e</title>
+  <desc>m as crescent, o as ring, 1 as cross. Ink on light ground, mercury tip inside the ring.</desc>
+
+  <!-- m : crescent -->
+  <path fill="#05060A" d="M72 32 A29 29 0 0 0 128 32 C121 38 110 42 100 46 C90 42 79 38 72 32 Z"/>
+  <path fill="#05060A" d="M72 32 C66.5 23.5 61 16 53 6 C61 18 66.5 25.5 78 34 Z"/>
+  <path fill="#05060A" d="M128 32 C133.5 23.5 139 16 147 6 C139 18 133.5 25.5 122 34 Z"/>
+
+  <!-- spear : ink outside the ring -->
+  <path fill="#05060A" d="M96.4 46 C96.8 54 97.4 61 97.9 68 L102.1 68 C102.6 61 103.2 54 103.6 46 C101.2 44.2 98.8 44.2 96.4 46 Z"/>
+  <!-- spear : mercury inside the ring, deep stop for contrast on light -->
+  <path fill="#6E2BFF" d="M97.9 67.5 C98.5 76 99.3 84 100 93 C100.7 84 101.5 76 102.1 67.5 Z"/>
+
+  <!-- o : ring -->
+  <circle cx="100" cy="98" r="30" fill="none" stroke="#05060A" stroke-width="2.8"/>
+
+  <!-- thorns -->
+  <path fill="#05060A" transform="rotate(135 100 98)" d="M100 42 C101.8 60 102.4 66 102.8 70 C101.2 71.8 98.8 71.8 97.2 70 C97.6 66 98.2 60 100 42 Z"/>
+  <path fill="#05060A" transform="rotate(225 100 98)" d="M100 42 C101.8 60 102.4 66 102.8 70 C101.2 71.8 98.8 71.8 97.2 70 C97.6 66 98.2 60 100 42 Z"/>
+
+  <!-- 1 : cross -->
+  <path fill="#05060A" d="M100 126 C101.4 152 101.6 172 100 198 C98.4 172 98.6 152 100 126 Z"/>
+  <path fill="#05060A" d="M62 164 C80 161 120 161 138 164 C120 167 80 167 62 164 Z"/>
+</svg>
