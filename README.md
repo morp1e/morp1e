@@ -15,9 +15,17 @@ Learning to run these systems well enough that the judgement stays mine.
 
 Digital Game Design student in Northern Cyprus, third year. I work on AI agent systems, digital art, and games.
 
-## Morp1eOS
+---
 
-An Obsidian vault operated by AI agents as a second brain: file-based memory that survives between sessions, a machine layer that writes its own daily logs and compiles them into linked articles, and a written contract for what the agents are and are not allowed to do. Private.
+Look at the artifact, not the aura.
+
+Fluency is not quality.
+
+A narrow claim beats a broad one.
+
+When there is no evidence yet, silence is the answer.
+
+---
 
 ## Ledger
 
