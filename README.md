@@ -5,7 +5,7 @@
   <img src="assets/mercurius-light.svg" alt="Mercurius, the morp1e mark" height="116">
 </picture>
 
-<sub>SOLVE ET COAGULA</sub>
+
 
 # morp1e
 
